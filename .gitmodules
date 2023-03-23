@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GEEaSPU"]
+	path = GEEaSPU
+	url = https://github.com/cran/GEEaSPU
+	shallow = true
+	registered = true
+[submodule "POMaSPU"]
+	path = POMaSPU
+	url = https://github.com/cran/POMaSPU
+	shallow = true
+	registered = true
